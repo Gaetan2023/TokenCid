@@ -8,5 +8,8 @@ contract TokenCidScript is Script {
 
     function run() public {
         vm.broadcast();
+        TokenCid;
+        vm.broadcast();
+
     }
 }
